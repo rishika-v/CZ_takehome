@@ -4,10 +4,10 @@ Micro-Manager image and dataset analysis
 ## Repository Contents
 ### Exercise 1 Files:
 cz_ex1.py:
-This is the Python script developed during Exercise 1. It features the code used to control the Micro-Manager for image acquisition and initial data processing.
+This is the Python script developed during Exercise 1. It features the code used to control the Micro-Manager for image acquisition.
 
 CZex1_data.tif:
-This Multidimensional TIFF dataset was acquired using the script from Exercise 1. The dataset represents a collection of images obtained through a systematic imaging process.
+This Multidimensional TIFF dataset was acquired using the script from Exercise 1. 
 🔗 [Google Drive Link for CZex1_data.tif](https://drive.google.com/drive/folders/1uy-k-RDoUi-u9MLXJGLyUbjw7NurE3nx)
 
 ### Exercise 2 Files:
@@ -20,7 +20,7 @@ A TIFF dataset from Exercise 2 that showcases the results of the imaging procedu
 
 ### Exercise 3 Files:
 cz_ex3.ipynb:
-A Jupyter notebook hosted on Google Colab, detailing the steps taken in Exercise 3. The notebook contains the analysis of cell nuclei, including segmentation and eccentricity calculations.
+A Jupyter notebook hosted on Google Colab. The notebook contains the analysis of cell nuclei, including segmentation and eccentricity calculations.
 📓 [Google Colab link](https://colab.research.google.com/drive/1zpzAmC8jcAqVlQibkMU_32GYUgcRnXQg?usp=sharing)
 
 CZex3_hist.png:

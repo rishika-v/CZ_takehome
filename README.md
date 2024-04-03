@@ -29,3 +29,4 @@ A histogram image file displaying the distribution of nuclei eccentricities deri
 ### Video Explanation:
 cz_recording.mp4:
 An explanatory video where the methods, results, and insights from the exercises are discussed.
+🔗 [Recording link](https://drive.google.com/drive/folders/1uy-k-RDoUi-u9MLXJGLyUbjw7NurE3nx?usp=sharing)

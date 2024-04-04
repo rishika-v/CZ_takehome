@@ -1,5 +1,5 @@
 # CZ_takehome Repository
-Micro-Manager image and dataset analysis
+Smart Microscopy Technical Assessment: Micro-Manager image and dataset analysis
 
 ## Repository Contents
 ### Exercise 1 Files:
